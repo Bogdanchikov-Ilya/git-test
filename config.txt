@@ -1,0 +1,2 @@
+prod: www/gooogle.com/
+// test: www/yandex.ru/
