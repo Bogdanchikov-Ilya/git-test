@@ -1,2 +1,2 @@
-prod: www/gooogle.com/
-// test: www/yandex.ru/
+// prod: www/gooogle.com/
+test: www/yandex.ru/
